@@ -14,11 +14,13 @@ Preprocessing apples: Cleaning, handling missing values/null values, etc, featur
 **Unsupervised learning**:
 
 Clustering (K-means)
+
 Dimensionality reduction (PCA)
 
-**Supervised learning**
+**Supervised learning**:
 
 Regression
+
 Classification
 
 
